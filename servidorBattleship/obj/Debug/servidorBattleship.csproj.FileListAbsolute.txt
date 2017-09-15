@@ -1,0 +1,6 @@
+C:\Users\Carolina del\Documents\Visual Studio 2015\Projects\servidorBattleship\servidorBattleship\bin\Debug\servidorBattleship.exe.config
+C:\Users\Carolina del\Documents\Visual Studio 2015\Projects\servidorBattleship\servidorBattleship\bin\Debug\servidorBattleship.exe
+C:\Users\Carolina del\Documents\Visual Studio 2015\Projects\servidorBattleship\servidorBattleship\bin\Debug\servidorBattleship.pdb
+C:\Users\Carolina del\Documents\Visual Studio 2015\Projects\servidorBattleship\servidorBattleship\obj\Debug\servidorBattleship.csprojResolveAssemblyReference.cache
+C:\Users\Carolina del\Documents\Visual Studio 2015\Projects\servidorBattleship\servidorBattleship\obj\Debug\servidorBattleship.exe
+C:\Users\Carolina del\Documents\Visual Studio 2015\Projects\servidorBattleship\servidorBattleship\obj\Debug\servidorBattleship.pdb
